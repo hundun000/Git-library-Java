@@ -1,0 +1,16 @@
+/build/
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+/out/
+
+### Eclipse IDE ###
+.classpath
+.project
+.settings/
+/bin
+/.gradle/
+/target/
